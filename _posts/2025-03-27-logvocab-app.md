@@ -41,6 +41,22 @@ LogVocab is a desktop/web application designed to enhance the processing of text
     *   Instead of direct correction, prompts the user when a flagged phrase is detected: _"This phrasing seems a bit less common. Can you think of another way to express this idea, perhaps using words/phrases you feel more confident with or have encountered frequently?"_
     *   Does **not** explicitly suggest alternatives based on the internal "processed" database, but encourages the user to access their own acquired language.
 
+Okay, here is the English expression for point 3, the AI Conversation Partner feature:
+
+### 3. AI Conversation Partner (Optional Early Introduction - Late Stage 1 / Stage 2+, Core for Stage 3):**
+
+*   **Core Function:** Provides a real-time **spoken conversation** environment with an AI partner.
+*   **Speech I/O:** Integrates speech recognition (Speech-to-Text - STT) and high-quality text-to-speech (TTS).
+*   **Adaptive Difficulty (i+1 Capability):**
+    *   **Leverages Implicit Data:** The LLM utilizes the list of "processed/encountered" words/phrases from Module 1 to **adjust the complexity** (vocabulary, sentence structures) of its responses, aiming to provide comprehensible **"i+1" input** tailored to the user.
+*   **New Word Introduction & Support:**
+    *   Optional setting for the AI to highlight or briefly explain key new words/phrases it introduces.
+    *   Allows the user to quickly query the definition of a word the AI has just used.
+*   **Feedback Mechanisms (Considered Approach):**
+    *   Prioritizes **ensuring successful communication**. If the AI doesn't understand the user, it will ask for clarification, prompting self-correction.
+    *   *May* offer gentle, non-intrusive feedback on significant grammatical errors or very clear pronunciation issues (if STT analysis capabilities permit), but avoids constant interruption.
+*   **Integration with Module 1:** Enables the user to easily flag or "send" new vocabulary/phrases encountered *during the AI conversation* to the Input Processing module for later review and potential SRS card creation.
+
 ## Target User & Stage
 
 *   Language learners using input-heavy methods (like Refold).
