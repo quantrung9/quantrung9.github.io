@@ -1,7 +1,7 @@
 services:
   app:
     image: jekyll/jekyll:4
-    platform: linux/arm64
+    platform: linux/amd64
     command: jekyll serve
     # command: >
     #     bash -c "echo hello && tail -f /dev/null"
