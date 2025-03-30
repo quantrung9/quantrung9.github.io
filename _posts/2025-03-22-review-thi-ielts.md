@@ -24,7 +24,7 @@ Phòng thi lần này nằm trong một trường đại học nên lần đầu
 
 Kết quả 5.5, vẫn tệ như mọi khi nên cũng không có kinh nghiệm gì để chia sẻ.
 
-Part 1 mình không nhớ rõ topic lắm, Part 2 thì kể về một thứ mà làm mình surprised trong quá khứ, Part 3 nối tiếp hỏi về happiness.
+Part 1 hỏi về talent - bạn good at cái gì, bạn có talent gì ko, bạn phát triển nó thế nào - mình trả lời là nếu xem phát triển phần mềm là talent thì đó là talent của tôi đó..., Part 2 thì kể về một thứ mà làm mình surprised trong quá khứ, Part 3 nối tiếp hỏi về happiness.
 
 # Buổi chiều
 
