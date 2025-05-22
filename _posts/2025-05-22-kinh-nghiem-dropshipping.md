@@ -10,6 +10,8 @@ Tóm tắt chính: “Winning Products” là một lời nói dối nguy hiểm
 
 Source: [The Truth About Winning Products](https://www.facebook.com/anhsteinmmo99/posts/pfbid0X5KmkeMXZPy7bwy5FzMpKgi87dvXfjnhaAmrBd6C9AzebZ6t8F4XrnQLf3ox5PEDl?__cft__[0]=AZUzD_gPMuIC64w7AjfUGgkOKOm7KhCThEJon9pXVXJmXOa1XRx53uX8wiwiLEszsGU3o18Q09Nfdplp9-ABzCixznkMPMNHG3bGvOFA8lTj4u1RbU1mpRK0QKXO1E7CTJWb10QaXi1njPquMZEWtj9Zt6dIHeX7FK8yMA7vIcHQ0M9Pg77cQ5NyteRAmpc7xfA&__tn__=%2CO%2CP-R-R)
 
+Video: [https://www.youtube.com/watch?v=SDld1RtURh0](https://www.youtube.com/watch?v=SDld1RtURh0)
+
 == I. Sự Thật Về “Winning Product”
 
 - Các “guru” thường nói rằng: chỉ cần sản phẩm tốt, bạn có thể làm sai mọi thứ khác mà vẫn thắng.
