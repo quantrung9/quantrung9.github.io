@@ -6,6 +6,12 @@ tags:
   - Ngôn ngữ
 ---
 
+Update 2025-07-03:
+
+- IELTS speaking là trở ngại: [bị detect có học thuộc hay không](https://giamkhaoielts.com/tai-sao-cau-tra-loi-forecast-thuoc-long-ielts-speaking-khong-hieu-qua-goc-nhin-cua-giam-khao/).
+
+- CELPIP review: [March 11, 2025](https://www.reddit.com/r/canadaexpressentry/comments/1j6z60y/comment/mh5jr8r/)
+
 ~~Thời gian gần đây có nhiều case bị stuck ở Ielts Writing 6.5 nhưng lại thành công khi chuyển sang CELPIP ([case 1](https://www.facebook.com/groups/286148379304733/posts/904026814183550/), [case 2](https://www.facebook.com/groups/286148379304733/posts/899824491270449/)) nên mình nghĩ đây sẽ là hướng đi mới của mình.~~
 
 **Update Jan 2024**: Reading CELPIP khó hơn xưa, câu hỏi lắt léo. Mình xin trích lại [review](https://www.facebook.com/groups/286148379304733/posts/1009153650337532/?comment_id=1017583532827877&__cft__[0]=AZXnvR_vgUdaN-aDx7DOqB5ulRBaHif4yV2PVHjE1xjI_ADb-bA6y-Dvubqn7Dn6tLba-INBVGFluV7hft0QRbB0IrsaDRP9FeBasj5yVwXrIvVLQUj7lTmv5HSEqK1SiO0wnhHJ-V9WMKQ2XgNabF5fR-CAA9shI8UUsl9jG3N-2s2q4w5gdheEURgQWfjYWJ4&__tn__=R]-R) của một bạn:
