@@ -272,6 +272,49 @@ Tuyệt vời! Đây là phần tóm tắt cho video "Advanced Language Learning
 - Tận dụng **file audio** để ôn tập một cách thụ động nhưng hiệu quả, biến việc lặp lại trở nên dễ dàng và không tốn nhiều công sức.
 - Thay vì tìm lý do tại sao một phương pháp không hiệu quả, hãy thử nghiệm nó một cách nhất quán trước khi đánh giá.
 
+Chắc chắn rồi! Video của Artem có một số điểm tương đồng với triết lý của Mikel nhưng cũng có những góc nhìn và sự nhấn mạnh khác biệt. Việc thêm video này vào sẽ mang đến một góc nhìn bổ sung thú vị. Đây là bản tóm tắt theo phong cách bạn đã làm.
+
+---
+
+### Bonus: Tôi đã luyện tập tiếng Anh 14 giờ mỗi ngày mà không cần ra nước ngoài (Hãy sao chép tôi) - Tác giả Artem
+
+**Link video:** [https://www.youtube.com/watch?v=8vMMKC321t0](https://www.youtube.com/watch?v=8vMMKC321t0)
+
+**Tóm tắt:**
+
+- **Vấn đề cốt lõi:** Bạn không giỏi tiếng Anh vì bạn không dành đủ thời gian. Một đứa trẻ bản ngữ mất 5 năm sống trong môi trường ngôn ngữ để nói trôi chảy. Nếu bạn muốn đạt được điều đó trong 6 tháng hay 1-2 năm, bạn phải đầu tư một lượng thời gian cực lớn mỗi ngày (10-14 giờ).
+
+- **Làm thế nào để có 14 giờ/ngày?** Vấn đề không phải là thiếu thời gian, mà là thiếu động lực và sự tập trung. Artem đưa ra 2 giải pháp chính:
+
+  **1. Động lực CỰC LỚN (Massive Motivation):**
+      - **Quên đi các mục tiêu nhỏ:** Các mục tiêu như "đạt IELTS 7.0" hay "qua môn" quá yếu để thúc đẩy bạn.
+      - **Đặt một mục tiêu LỚN HƠN cuộc sống:** Mục tiêu của bạn phải là thứ gì đó thay đổi cuộc đời: xây dựng một doanh nghiệp toàn cầu, trở thành diễn giả quốc tế, đi du lịch vòng quanh thế giới, giúp gia đình tự do tài chính, bắt đầu một kênh YouTube...
+      - Mục tiêu lớn này sẽ tạo ra nguồn động lực vô tận, giúp bạn vượt qua khó khăn và sẵn sàng "hy sinh" 6 tháng để đi "all-in".
+
+  **2. Loại bỏ những thứ không cần thiết (Eliminate the Non-Essentials):**
+      - **Ngừng làm nhiều việc cùng lúc:** Đừng cố học nhiều ngôn ngữ cùng lúc hoặc theo đuổi nhiều dự án cùng lúc. Bạn sẽ tự làm mình phân tán ("spreading yourself too thin") và không đạt được kết quả ở bất cứ đâu. Hãy tập trung 100% vào tiếng Anh.
+      - **Ngừng "HỌC VỀ TIẾNG ANH" (Learning ABOUT English):**
+          - Rất nhiều người lãng phí thời gian xem các video ngắn trên TikTok/YouTube dạy về: "5 từ mới", "lỗi ngữ pháp cần tránh", "sự khác biệt giữa Anh-Anh và Anh-Mỹ".
+          - Artem khẳng định: **Học về tiếng Anh** và **nói được tiếng Anh** là hai việc hoàn toàn khác nhau. Việc xem các video này chỉ làm tăng kiến thức của bạn về ngôn ngữ, nhưng không cải thiện kỹ năng nói. Thậm chí tệ hơn, nó khiến bạn sợ mắc lỗi và không dám nói.
+      - **Hãy "HỌC BẰNG TIẾNG ANH" (Learn IN English):** Thay vì xem video dạy tiếng Anh bằng tiếng mẹ đẻ, hãy xem các video về chủ đề bạn yêu thích (kinh doanh, phim ảnh, game...) **bằng tiếng Anh**. Đây mới là cách đắm mình (immersion) thực sự.
+
+- **Chu trình học hiệu quả (The Cycle of Growth):**
+  - Việc học hiệu quả không chỉ là tiêu thụ, mà là một chu trình cân bằng giữa 3 yếu tố:
+    1.  **Tiêu thụ chủ động (60%):** Nghe/đọc và ghi chú, highlight từ mới.
+    2.  **Nói chủ động (30%):** Chủ động nói về những gì bạn vừa tiêu thụ.
+    3.  **Nhận phản hồi (10%):** Nhận feedback từ một người hướng dẫn hoặc tự ghi âm để phân tích lỗi.
+
+- **Tư duy đúng đắn:**
+  - **Hãy là người nói, đừng là nhà ngôn ngữ học (Be a speaker, not a linguist).**
+  - **Phân tích lỗi SAU KHI nói:** Đừng suy nghĩ quá nhiều trước khi nói. Cứ nói một cách tự nhiên, sau đó mới ghi âm và phân tích lỗi. Việc lo sợ mắc lỗi trước khi nói chính là thứ giết chết sự tự tin của bạn.
+  - **Đừng cho mình lựa chọn nào khác:** Hãy tạo ra một môi trường và động lực lớn đến mức bạn không còn lựa chọn nào khác ngoài việc phải trở nên thông thạo.
+
+**Takeaways:**
+- Sự trôi chảy là kết quả trực tiếp của **số giờ** bạn đầu tư.
+- Thành công đòi hỏi một **động lực lớn lao** và sự **tập trung tuyệt đối** bằng cách loại bỏ mọi thứ gây xao lãng.
+- Hãy ngừng "học về tiếng Anh" và bắt đầu "học bằng tiếng Anh".
+- Áp dụng chu trình cân bằng: **Tiêu thụ (60%) - Nói (30%) - Nhận phản hồi (10%).**
+
 ---
 
 ## Ghi chú
