@@ -423,6 +423,96 @@ Tuyệt vời! Đây là một video phản biện rất thú vị. Dưới đâ
 - Việc vượt qua khó khăn và áp lực là một phần tất yếu của quá trình học để trở nên xuất sắc, đừng né tránh nó.
 - Đừng để bị đánh lừa bởi những người xuyên tạc khái niệm "output" bằng cách đánh đồng nó với các phương pháp học trong lớp đã lỗi thời.
 
+### 10. Khoa học về Trí nhớ: Cách học hàng nghìn từ và không bao giờ quên
+
+**Link video:** [https://www.youtube.com/watch?v=xZmF947uxFc](https://www.youtube.com/watch?v=xZmF947uxFc)
+
+**Tóm tắt:**
+
+- **Vấn đề chính:** Vấn đề lớn nhất của người học không chỉ là học từ mới, mà là làm sao để **ghi nhớ** chúng lâu dài. Video này giải thích các kỹ thuật dựa trên khoa học để học hiệu quả và chống lại sự lãng quên.
+
+- **Giải pháp khoa học - 3 trụ cột:**
+  1.  **Lặp lại ngắt quãng (Spaced Repetition):**
+      - **Nguyên lý:** Dựa trên "đường cong lãng quên" (forgetting curve), chúng ta sẽ quên thông tin rất nhanh ngay sau khi học. Tuy nhiên, mỗi lần ôn tập (review), đường cong này sẽ trở nên "thoải" hơn, nghĩa là bạn sẽ quên chậm hơn.
+      - **Cách thực hiện hiệu quả (Mikel's Method):** Thay vì dùng các ứng dụng như Anki có thể tốn thời gian, Mikel đề xuất một phương pháp đơn giản hơn nhiều:
+          - Học từ vựng trong các **câu ví dụ hoàn chỉnh**.
+          - Sử dụng công cụ text-to-speech để **tạo file âm thanh** cho tất cả các câu đó.
+          - Tạo một **playlist** và nghe đi nghe lại nó mọi lúc rảnh rỗi (khi lái xe, tập thể dục, làm việc nhà...).
+      - **Lợi ích:** Một nghìn câu chỉ tương đương với khoảng 45-50 phút âm thanh. Bạn có thể dễ dàng nghe lại toàn bộ kho từ vựng của mình nhiều lần mỗi tuần mà không tốn thêm thời gian thực tế.
+
+  2.  **Sử dụng Trí nhớ gợi hình (Mnemonics):**
+      - **Mục đích:** Kỹ thuật này giúp bạn "mã hóa" (encode) thông tin mới một cách hiệu quả hơn ngay từ lần đầu tiên.
+      - **Hiệu quả:** Khi bạn học từ mới tốt hơn ngay từ đầu, "đường cong lãng quên" sẽ không bị dốc đứng. Điều này làm cho các lần ôn tập sau này hiệu quả hơn.
+      - Mikel khuyến khích sử dụng nhưng cho rằng nó không bắt buộc nếu bạn không thích.
+
+  3.  **Truy xuất chủ động (Active Recall):**
+      - **Đây là kỹ thuật quan trọng và hiệu quả nhất.**
+      - **Nguyên lý:** Thay vì chỉ tiếp thu một cách thụ động (đọc/nghe), bạn phải buộc não bộ phải **"lôi" thông tin ra**. Đây là hành động củng cố trí nhớ mạnh mẽ nhất.
+      - **Cách thực hiện:**
+          1. Nhìn vào câu bằng tiếng mẹ đẻ trong danh sách của bạn.
+          2. Cố gắng **nói to** câu đó bằng ngôn ngữ mục tiêu mà **không nhìn vào đáp án**.
+          3. Sau đó, kiểm tra xem bạn nói đúng hay sai.
+      - Mikel thừa nhận rằng đây là một bài tập khó, tốn công sức và đôi khi gây nản lòng, nhưng hiệu quả của nó vượt trội so với việc chỉ nghe và lặp lại một cách thụ động.
+
+- **Hệ thống tổng hợp:**
+  - **Lặp lại ngắt quãng** trở nên cực kỳ đơn giản và tự động thông qua phương pháp playlist âm thanh.
+  - **Truy xuất chủ động** và **Trí nhớ gợi hình** làm cho việc học ban đầu trở nên vững chắc, giúp bạn ghi nhớ tốt hơn và cần ít lần ôn tập hơn trong dài hạn.
+  - Lời khuyên cuối cùng: Hãy ngừng nghe nhạc hay các podcast vô bổ. Thay vào đó, hãy nghe các câu bạn đang học lặp đi lặp lại. Nó có thể nhàm chán, nhưng là cách hiệu quả nhất để đưa hàng nghìn từ vào bộ nhớ dài hạn của bạn.
+
+**Takeaways:**
+- Lặp lại ngắt quãng là chìa khóa để chống lại "đường cong lãng quên".
+- Biến việc ôn tập thành thói quen dễ dàng bằng cách tạo playlist âm thanh của các câu ví dụ và nghe chúng khi làm việc khác.
+- **Truy xuất chủ động (Active Recall)** – tự kiểm tra bản thân – là kỹ thuật mạnh mẽ nhất để củng cố trí nhớ.
+- Học từ vựng trong ngữ cảnh của câu, kết hợp với việc ôn tập chủ động (Active Recall) và thụ động (nghe playlist), là công thức để học hàng nghìn từ và không bao giờ quên.
+
+### 11. Học 1000 từ mỗi tuần để thành thạo bất kỳ ngôn ngữ nào (Từng bước một)
+
+**Link video:** [https://www.youtube.com/watch?v=f1WQh3v-WfM](https://www.youtube.com/watch?v=f1WQh3v-WfM)
+
+**Tóm tắt:**
+
+- **Mục tiêu chính:** Video này cung cấp một hệ thống từng bước, chi tiết để tạo ra tài liệu học cá nhân hóa và luyện tập một cách hiệu quả, giúp bạn học hàng nghìn câu và trở nên thông thạo một cách nhanh chóng.
+
+- **Các bước thực hiện:**
+
+  1.  **Bước 1: Viết ra những gì BẠN muốn nói (Language Islands).**
+      - Lập danh sách tất cả các chủ đề, tình huống, cuộc trò chuyện bạn thường gặp hoặc sẽ gặp (giới thiệu bản thân, công việc, sở thích, mua sắm...).
+      - Với mỗi chủ đề, hãy viết ra tất cả những câu bạn muốn nói bằng tiếng mẹ đẻ. Mục tiêu là hàng trăm câu. Đừng lo lắng nếu nó chưa hoàn hảo, đây chỉ là điểm khởi đầu.
+
+  2.  **Bước 2: Tạo file âm thanh (Audio Files).**
+      - Copy các câu đã dịch sang ngôn ngữ mục tiêu và dán vào một công cụ chuyển văn bản thành giọng nói (text-to-speech) như TTSMaker.
+      - Chọn một giọng nói bạn thích và tạo file âm thanh.
+      - **Lưu ý:** 100 câu chỉ dài khoảng dưới 5 phút âm thanh, vì vậy bạn có thể tạo file cho hàng trăm câu một cách dễ dàng.
+
+  3.  **Bước 3: Tạo văn bản song ngữ (Bilingual Text).**
+      - Tạo một file (ví dụ: Google Sheets) với hai cột: một cột là tiếng mẹ đẻ, cột còn lại là ngôn ngữ mục tiêu.
+      - Điều này giúp bạn dễ dàng tra cứu nghĩa khi học.
+
+  4.  **Bước 4: Quá trình học và luyện tập (The Drills).**
+      - **Nghe và Đọc đồng thời:** Mở file âm thanh và đọc theo văn bản song ngữ của bạn. Lặp lại việc này nhiều lần.
+      - **Sức mạnh của sự lặp lại:** Bạn sẽ cần khoảng **10 lần** nghe-đọc để hiểu và nhận biết dễ dàng, và khoảng **20 lần** để có thể nhớ và sử dụng chúng một cách chủ động. Vì vậy, ngay cả khi đã hiểu, hãy tiếp tục nghe.
+      - **Shadowing:** Khi bạn đã khá quen thuộc với các câu và không cần nhìn bản dịch nhiều, hãy bắt đầu "shadowing" – nghe và nói to theo file âm thanh gần như đồng thời.
+
+  5.  **Bước 5: Vòng lặp cải tiến - "Điều kỳ diệu" (The Self-Improvement Cycle).**
+      - Đây là bước quan trọng nhất để đưa bạn từ việc biết câu sang nói trôi chảy.
+      1. **Tự nói chuyện và ghi âm:** Lấy điện thoại ra, đi dạo và giả vờ gửi tin nhắn thoại. Cố gắng nói về một chủ đề bằng ngôn ngữ mục tiêu, sử dụng những câu bạn đã học.
+      2. **Xác định "lỗ hổng":** Bạn sẽ nhận ra có rất nhiều điều mình muốn nói nhưng không thể vì chưa học câu đó.
+      3. **Tạo tài liệu mới:** Khi về nhà, hãy nghe lại bản ghi âm của mình. Viết ra tất cả những ý tưởng, những câu bạn đã cố gắng nói nhưng thất bại.
+      4. **Dịch và thêm vào hệ thống:** Dịch những câu mới này, thêm chúng vào văn bản song ngữ và tạo file âm thanh mới cho chúng.
+      5. **Lặp lại chu trình:** Học những câu mới này bằng cách nghe, đọc, shadowing. Ngày hôm sau, lại thử tự nói chuyện và ghi âm.
+
+- **Kết quả:**
+  - Bằng cách lặp đi lặp lại chu trình **Học → Tự nói chuyện → Xác định lỗ hổng → Tạo câu mới → Học tiếp**, bạn sẽ liên tục mở rộng khả năng diễn đạt của mình.
+  - Ban đầu có thể khó khăn, nhưng dần dần bạn sẽ có thể tự nói chuyện hàng giờ một cách dễ dàng.
+  - Khi bạn đã có thể nói chuyện trôi chảy với chính mình, việc nói chuyện với người bản xứ sẽ không còn là một thử thách lớn nữa.
+
+**Takeaways:**
+- Hệ thống học hiệu quả bắt đầu từ chính những gì BẠN muốn nói.
+- File âm thanh là công cụ cực kỳ mạnh mẽ để thực hiện việc lặp lại (repetition) hàng loạt một cách dễ dàng.
+- Đừng chỉ dừng lại ở việc hiểu; hãy lặp lại đủ nhiều (khoảng 20 lần) để có thể sử dụng câu một cách chủ động.
+- Chìa khóa thực sự để trở nên trôi chảy là vòng lặp: **Nói → Ghi âm → Phân tích lỗi/lỗ hổng → Tạo tài liệu mới từ chính những lỗi đó → Học.**
+- Hãy trở nên thông thạo với chính mình trước, rồi bạn sẽ trở nên thông thạo với cả thế giới.
+
 ---
 
 ### Bonus: Tôi đã luyện tập tiếng Anh 14 giờ mỗi ngày mà không cần ra nước ngoài (Hãy sao chép tôi) - Tác giả Artem
