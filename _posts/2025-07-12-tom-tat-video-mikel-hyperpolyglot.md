@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: Tóm tắt video từ kênh YouTube Mikel Hyperpolyglot
 date: 2025-07-12
 tags:
