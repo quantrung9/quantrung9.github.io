@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Tóm tắt video từ kênh YouTube Mikel | Hyperpolyglot"
+title: Tóm tắt video từ kênh YouTube Mikel Hyperpolyglot
 date: 2025-07-12
 tags:
   - Ngôn ngữ
@@ -8,7 +8,7 @@ tags:
 
 ## Giới thiệu
 
-Mikel | Hyperpolyglot là một kênh YouTube chuyên về học ngoại ngữ, chia sẻ kinh nghiệm và phương pháp học hiệu quả từ một người có thể nói nhiều thứ tiếng. Dưới đây là tóm tắt các video hữu ích từ kênh này.
+Mikel Hyperpolyglot là một kênh YouTube chuyên về học ngoại ngữ, chia sẻ kinh nghiệm và phương pháp học hiệu quả từ một người có thể nói nhiều thứ tiếng. Dưới đây là tóm tắt các video hữu ích từ kênh này.
 
 ## Danh sách video đã tóm tắt
 
