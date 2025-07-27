@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Bản Đồ Tư Duy Hoàn Chỉnh Cho IELTS Speaking: Nói Gì Khi 'Bí Ý Tưởng'?
+title: Bản Đồ Tư Duy Hoàn Chỉnh Cho IELTS Speaking
 date: 2025-07-27
 tags:
   - Ngôn ngữ
