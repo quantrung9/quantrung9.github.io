@@ -1,13 +1,19 @@
 services:
   app:
-    image: jekyll/jekyll:4
-    platform: linux/amd64
-    command: jekyll serve
+    image: ruby:3.3
+    working_dir: /srv/jekyll
+    command: bash -c "bundle install && bundle exec jekyll serve --livereload --host 0.0.0.0"
     # command: >
     #     bash -c "echo hello && tail -f /dev/null"
     ports:
       - 4000:4000
+      - 35729:35729
     volumes:
       - .:/srv/jekyll
+      - bundler_gems:/bundle
     environment:
       - JEKYLL_ENV=development
+      - BUNDLE_PATH=/bundle
+
+volumes:
+  bundler_gems:
